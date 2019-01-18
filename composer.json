@@ -3,7 +3,9 @@
     "description": "This is curl package for php",
     "type": "library",
     "license": "MIT",
-    "keywords": "curl",
+    "keywords": [
+        "curl"
+    ],
     "authors": [
         {
             "name": "zhouheng",
