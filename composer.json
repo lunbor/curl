@@ -1,0 +1,17 @@
+{
+    "name": "zh-curl/curl",
+    "description": "This is curl package for php",
+    "type": "library",
+    "license": "MIT",
+    "keywords": "curl",
+    "authors": [
+        {
+            "name": "zhouheng",
+            "email": "zhouheng.25520.sc@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
